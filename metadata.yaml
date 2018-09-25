@@ -1,11 +1,16 @@
 _repo: Fran-vargtider-och-vallpojksar-En-samling-minnen-fran-forna-dagars-Ostra-Nyland_57622
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57622-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Bengts, Josefina
     gutenberg_agent_id: '49509'
     url: http://www.gutenberg.org/2009/agents/49509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57622#Fran-vargtider-och-vallpojksar-En-samling-minnen-fran-forna-dagars-Ostra-Nyland
 gutenberg_issued: '2018-08-01'
 gutenberg_type: Text
 identifiers:
